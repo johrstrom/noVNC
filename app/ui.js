@@ -954,6 +954,7 @@ const UI = {
             .classList.add("noVNC_selected");
     },
 
+
     closeClipboardPanel() {
         document.getElementById('noVNC_clipboard')
             .classList.remove("noVNC_open");
